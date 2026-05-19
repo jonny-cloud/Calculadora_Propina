@@ -191,3 +191,5 @@ fun TipCalculatorScreenPreview() {
 }
 
 // Fin de TipCalculatorScreen - Agregué TextFields y botón
+
+// Lógica de cálculo implementada con mutableStateOf y remember
